@@ -1,6 +1,6 @@
 name: '🏠 Prototype'
 labels: 'prototype'
-description: I want to a new prototype
+description: I want a new prototype created
 
 body:
   - type: input
